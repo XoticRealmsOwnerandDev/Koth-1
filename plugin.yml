@@ -1,0 +1,12 @@
+---
+name: Koth
+author: ShaduuYT
+description: Simple koth event plugin
+version: 0.400000
+main: koth\KothMain
+api:
+- 3.0.0
+- 3.0.0-ALPHA5
+- 3.0.0-ALPHA8
+- 3.0.0-ALPHA9
+...
